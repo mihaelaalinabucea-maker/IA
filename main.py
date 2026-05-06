@@ -23,6 +23,7 @@ print(5==6)
 
 
 
+
 #LIST
 MY_LYST=[1,2,'5',True]
 len(MY_LYST)

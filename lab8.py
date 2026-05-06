@@ -92,3 +92,5 @@ print(np.mean(y,axis=0))
 print(np.mean(y,axis=1))
 z=np.array([[10,12,5],[17,11,19]])
 print(np.argmax(z,axis=1))
+
+
